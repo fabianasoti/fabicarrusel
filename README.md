@@ -1,4 +1,4 @@
-# fabicarrusel 🎠
+# fabicarrusel 🎠 (es/en)
 
 Carrusel de imágenes en **HTML, CSS y JavaScript puro**, ligero y fácil de integrar en cualquier proyecto web.  
 No requiere librerías externas y se controla mediante botones de navegación.
