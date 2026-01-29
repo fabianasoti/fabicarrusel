@@ -40,15 +40,15 @@ html
 ```
 
 ### ⚙️ Funcionamiento
-- El script reorganiza las imágenes dentro de un <section>
+- El script reorganiza las imágenes dentro de un `<section>`
 - Se crean dinámicamente los botones de navegación
-- El desplazamiento se controla modificando la propiedad left
-- El ancho de cada imagen es de 1280px por defecto
+- El desplazamiento se controla modificando la propiedad `left`
+- El ancho de cada imagen es de `1280px` por defecto
 
 ### 🎨 Personalización
 Puedes modificar fácilmente:
-- Tamaño del carrusel (width y height)
-- Velocidad de animación (transition)
+- Tamaño del carrusel (`width` y `height`)
+- Velocidad de animación (`transition`)
 - Estilo de los botones (CSS)
 
 ### 🧠 Tecnologías usadas
@@ -109,5 +109,6 @@ You can easily adjust:
 
 ---
 ### 💜 Autor / Author
-Fabiana Victoria Sotillo
-Proyecto educativo
+**Fabiana Victoria Sotillo**  
+Proyecto educativo y creativo
+
